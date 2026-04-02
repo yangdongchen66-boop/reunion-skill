@@ -1,0 +1,26 @@
+# Core dependencies
+mcp>=1.0.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# Vector database
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+regex>=2023.0.0
+
+# Text parsing
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# CLI and UI
+rich>=13.0.0
+typer>=0.9.0
+
+# Utilities
+pyyaml>=6.0
+tqdm>=4.65.0
+python-dateutil>=2.8.0

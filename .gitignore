@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+reunions/
+archive/
+vector_db/
+*.log
+
+# Sensitive data
+personas/*.json
+data/
+
+# Qoder
+.qoder/
